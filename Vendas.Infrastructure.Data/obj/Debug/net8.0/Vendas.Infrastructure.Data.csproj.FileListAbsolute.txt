@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\bin\Debug\net8.0\Vendas.Infrastructure.Data.deps.json
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\bin\Debug\net8.0\Vendas.Infrastructure.Data.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\bin\Debug\net8.0\Vendas.Infrastructure.Data.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\bin\Debug\net8.0\Vendas.Domain.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\bin\Debug\net8.0\Vendas.Domain.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\refint\Vendas.Infrastructure.Data.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\Vendas.Infrastructure.Data.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Infrastructure.Data\obj\Debug\net8.0\ref\Vendas.Infrastructure.Data.dll

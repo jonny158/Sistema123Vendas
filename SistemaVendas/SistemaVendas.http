@@ -1,0 +1,6 @@
+@SistemaVendas_HostAddress = http://localhost:5171
+
+GET {{SistemaVendas_HostAddress}}
+Accept: application/json
+
+###

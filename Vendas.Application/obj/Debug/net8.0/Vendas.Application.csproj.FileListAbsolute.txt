@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\bin\Debug\net8.0\Vendas.Application.deps.json
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\bin\Debug\net8.0\Vendas.Application.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\bin\Debug\net8.0\Vendas.Application.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\bin\Debug\net8.0\Vendas.Domain.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\bin\Debug\net8.0\Vendas.Domain.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\refint\Vendas.Application.dll
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\Vendas.Application.pdb
+C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Application\obj\Debug\net8.0\ref\Vendas.Application.dll
