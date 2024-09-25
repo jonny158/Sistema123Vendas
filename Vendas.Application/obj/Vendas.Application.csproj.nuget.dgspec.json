@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj": {}
+    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj": {
+    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj",
+        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
         "projectName": "Vendas.Application",
-        "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj",
+        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\obj\\",
+        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\Vendas.Domain.csproj": {
-                "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\Vendas.Domain.csproj"
+              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
         "projectName": "Vendas.Domain",
-        "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Domain\\obj\\",
+        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

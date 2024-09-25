@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeAAXY6c+Gt7mgvbX3s59KQcrnuu8kkQZsybrmyJSTjJFnZZv7QW26+67BtjqRQYpR8i5KGHyONqm+Zmvi2EbQ==",
+  "dgSpecHash": "Cvrl0aXyBxdSKH5FjHYKUvVoivOG6cfVGHzgF5g9ipvcQ54GO+GLPxQwuUIbY0TCorYxynTJuHcaMsQyjzcAOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
+  "projectFilePath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PICHAU\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PICHAU\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

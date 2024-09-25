@@ -16,5 +16,7 @@ namespace Vendas.Application.Models
         public decimal Desconto { get; set; }
         public decimal ValorTotal => (Quantidade * ValorUnitario) - Desconto;
         public bool Cancelado { get; set; } = false;
+
+        public int VendaId { get; set; }
     }
 }

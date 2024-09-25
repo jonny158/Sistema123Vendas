@@ -2878,11 +2878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
+      "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
       "projectName": "Vendas.Infrastructure.CrossCutting",
-      "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
+      "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.CrossCutting\\obj\\",
+      "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2904,11 +2904,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj": {
-              "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj"
+            "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
+              "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj"
             },
-            "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj"
+            "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
+              "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj"
             }
           }
         }

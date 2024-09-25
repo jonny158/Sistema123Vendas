@@ -9,3 +9,15 @@ C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Doma
 C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Domain\obj\Debug\net8.0\refint\Vendas.Domain.dll
 C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.pdb
 C:\Users\PICHAU\Desktop\SistemaVendas\Vendas.Domain\obj\Debug\net8.0\ref\Vendas.Domain.dll
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\bin\Debug\net8.0\Vendas.Domain.deps.json
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\bin\Debug\net8.0\Vendas.Domain.dll
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\bin\Debug\net8.0\Vendas.Domain.pdb
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.AssemblyInfoInputs.cache
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.AssemblyInfo.cs
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.csproj.CoreCompileInputs.cache
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.sourcelink.json
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.dll
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\refint\Vendas.Domain.dll
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\Vendas.Domain.pdb
+D:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Domain\obj\Debug\net8.0\ref\Vendas.Domain.dll

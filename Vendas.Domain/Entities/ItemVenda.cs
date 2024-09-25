@@ -14,7 +14,7 @@ namespace Vendas.Domain.Entities
         public int Quantidade { get; set; }
         public decimal ValorUnitario { get; set; }
         public decimal Desconto { get; set; }
-        public decimal ValorTotal => (Quantidade * ValorUnitario) - Desconto;
+        public decimal ValorTotal { get; set; }
         public bool Cancelado { get; set; }
 
         public int VendaId { get; set; }  // External Identity

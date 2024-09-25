@@ -1,28 +1,19 @@
-//var builder = WebApplication.CreateBuilder(args);
-
-//// Add services to the container.
-
-//builder.Services.AddControllers();
-
-//var app = builder.Build();
-
-//// Configure the HTTP request pipeline.
-
-//app.UseHttpsRedirection();
-
-//app.UseAuthorization();
-
-//app.MapControllers();
-
-//app.Run();
 
 
+
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.OpenApi.Models;
+using SistemaVendasApi.Configuration;
+using Vendas.Infrastructure.Data.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
@@ -37,6 +28,16 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
+
+//Adicionando injeções de dependências no projeto.
+builder.Services.AddDependencyInjectionConfiguration();
+
+// Configuração do contexto da aplicação e sua connection string.
+builder.Services.AddDbContext<ApplicationDbContext>(options => 
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection"));
+}); 
+
 
 var app = builder.Build();
 

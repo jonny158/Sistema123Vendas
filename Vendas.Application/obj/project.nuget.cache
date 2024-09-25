@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQtehGlTW+H0OSg6Z2yYVK8BtNzzTfJWOjT9kiHTISfn/BNQHyDoSjDPSzfRfZP5l2l7Yg5mbF+Z3KQ3sZ8P9Q==",
+  "dgSpecHash": "LgQhE9hwijJgSl1qZcYleXksBIQRPUePOn/vnyDW0Imzh2mpfOKa0RqJ8fKjqmT/ou+V6UUwSRs3gZLYpLU3kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\Desktop\\SistemaVendas\\Vendas.Application\\Vendas.Application.csproj",
+  "projectFilePath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PICHAU\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

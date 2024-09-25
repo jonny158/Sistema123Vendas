@@ -43,17 +43,21 @@ namespace Vendas.Application.Services
             venda.ClienteId = cliente.Id;
             venda.ClienteNome = cliente.Nome;
 
+            var vendaDB = _mapper.Map<VendaViewModel, Venda>(venda);
+            _vendaRepository.Add(vendaDB);
+            _vendaRepository.SaveChanges();
+
             // Desnormalizando o nome dos produtos
             foreach (var item in venda.Itens)
             {
                 var produto = _produtoRepository.GetById(item.ProdutoId);
-                if (produto == null) throw new NotFoundException($"Produto com ID {item.ProdutoId} não encontrado");
                 item.ProdutoId = produto.Id;
                 item.ProdutoNome = produto.Nome;
-            }
+                item.VendaId = vendaDB.Id;
 
-            _vendaRepository.Add(_mapper.Map<VendaViewModel, Venda>(venda));
-            _vendaRepository.SaveChanges();
+                _itemVendaRepository.Add(_mapper.Map<ItemVendaViewModel, ItemVenda>(item));
+                _itemVendaRepository.SaveChanges();
+            }
 
             Log.Information("Venda criada: {@Venda}", venda);
 
