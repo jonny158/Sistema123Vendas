@@ -12,15 +12,15 @@ using Vendas.Infrastructure.Data.Context;
 namespace Vendas.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240925080852_Start")]
-    partial class Start
+    [Migration("20240926182659_start")]
+    partial class start
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "7.0.20")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -41,6 +41,18 @@ namespace Vendas.Infrastructure.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Cliente", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Nome = "Eduardo Silva"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Nome = "Carlos Oliveira"
+                        });
                 });
 
             modelBuilder.Entity("Vendas.Domain.Entities.ItemVenda", b =>
@@ -98,6 +110,28 @@ namespace Vendas.Infrastructure.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Produto", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Nome = "Arroz"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Nome = "Feijao"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Nome = "Marcarrao"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Nome = "Carne"
+                        });
                 });
 
             modelBuilder.Entity("Vendas.Domain.Entities.Venda", b =>

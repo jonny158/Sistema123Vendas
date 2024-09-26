@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVendasApi", "SistemaVendas\SistemaVendasApi.csproj", "{F57C96D6-480D-4B62-A028-C6AAFA071CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaVendasApi", "SistemaVendas\SistemaVendasApi.csproj", "{F57C96D6-480D-4B62-A028-C6AAFA071CD3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{90DE648E-5A1E-4D3B-B2E2-6F769044C3BA}"
 EndProject
@@ -13,13 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - Infrastructure", "{0B9A36E9-3DD2-4990-8CEE-50AAEB724637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.Infrastructure.Data", "Vendas.Infrastructure.Data\Vendas.Infrastructure.Data.csproj", "{94AFF42F-0981-492D-92A0-B49CF9642907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vendas.Infrastructure.Data", "Vendas.Infrastructure.Data\Vendas.Infrastructure.Data.csproj", "{94AFF42F-0981-492D-92A0-B49CF9642907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.Domain", "Vendas.Domain\Vendas.Domain.csproj", "{C9FA3F9E-4862-41E4-AF22-71668C7EF242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vendas.Domain", "Vendas.Domain\Vendas.Domain.csproj", "{C9FA3F9E-4862-41E4-AF22-71668C7EF242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.Application", "Vendas.Application\Vendas.Application.csproj", "{8F15452D-EB9A-48B9-8728-14412D38099B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vendas.Application", "Vendas.Application\Vendas.Application.csproj", "{8F15452D-EB9A-48B9-8728-14412D38099B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.Infrastructure.CrossCutting", "Vendas.Infrastructure.CrossCutting\Vendas.Infrastructure.CrossCutting.csproj", "{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vendas.Infrastructure.CrossCutting", "Vendas.Infrastructure.CrossCutting\Vendas.Infrastructure.CrossCutting.csproj", "{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Tests", "5 - Tests", "{F4714FB6-FB1B-46E2-B3CC-FDF03242B0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendas.Tests", "Vendas.Tests\Vendas.Tests.csproj", "{E1F69E49-9C40-4E52-AC84-A821B18688CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,10 @@ Global
 		{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F69E49-9C40-4E52-AC84-A821B18688CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F69E49-9C40-4E52-AC84-A821B18688CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F69E49-9C40-4E52-AC84-A821B18688CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F69E49-9C40-4E52-AC84-A821B18688CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +65,7 @@ Global
 		{C9FA3F9E-4862-41E4-AF22-71668C7EF242} = {AA575D18-D20F-4EF5-B0E6-D72621806FA4}
 		{8F15452D-EB9A-48B9-8728-14412D38099B} = {A2A1B797-E1E9-4E9E-B085-4273BF55078E}
 		{333DB4F3-3AA9-45A8-B2CF-77643AF9EF77} = {0B9A36E9-3DD2-4990-8CEE-50AAEB724637}
+		{E1F69E49-9C40-4E52-AC84-A821B18688CF} = {F4714FB6-FB1B-46E2-B3CC-FDF03242B0A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {135A669B-DB79-4C33-8FA6-9A5E27DE84CE}

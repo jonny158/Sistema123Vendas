@@ -37,6 +37,15 @@ namespace SistemaVendasApi.Controllers
             return Ok(cliente);
         }
 
+        [HttpGet("ListarClientes")]
+        public async Task<IActionResult> ListarClientes()
+        {
+            var Lista = await _clienteAppService.ListClientes();
+            if (Lista == null) return NotFound();
+
+            return Ok(Lista);
+        }
+
         [HttpPut("AtualizarCliente")]
         public async Task<IActionResult> AtualizarCliente([FromBody] ClienteViewModel cliente)
         {

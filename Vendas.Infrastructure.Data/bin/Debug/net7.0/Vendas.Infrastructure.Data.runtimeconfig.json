@@ -6,6 +6,7 @@
       "version": "7.0.0"
     },
     "configProperties": {
+      "System.Globalization.Invariant": false,
       "System.Reflection.NullabilityInfoContext.IsSupported": true
     }
   }

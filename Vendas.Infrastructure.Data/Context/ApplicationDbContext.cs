@@ -33,6 +33,18 @@ namespace Vendas.Infrastructure.Data.Context
             modelBuilder.ApplyConfiguration(new ProdutoConfiguration());
             modelBuilder.ApplyConfiguration(new VendaConfiguration());
             modelBuilder.ApplyConfiguration(new ItemVendaConfiguration());
+
+            modelBuilder.Entity<Cliente>().HasData(
+                new Cliente { Id = 1, Nome = "Eduardo Silva" },
+                new Cliente { Id = 2, Nome = "Carlos Oliveira" }
+            );
+
+            modelBuilder.Entity<Produto>().HasData(
+                new Produto { Id = 1, Nome = "Arroz" },
+                new Produto { Id = 2, Nome = "Feijao" },
+                new Produto { Id = 3, Nome = "Marcarrao" },
+                new Produto { Id = 4, Nome = "Carne" }
+            );
         }
     }
 }

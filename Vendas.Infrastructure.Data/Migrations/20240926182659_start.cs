@@ -3,10 +3,12 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace Vendas.Infrastructure.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class Start : Migration
+    public partial class start : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -74,6 +76,26 @@ namespace Vendas.Infrastructure.Data.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Venda", x => x.Id);
+                });
+
+            migrationBuilder.InsertData(
+                table: "Cliente",
+                columns: new[] { "Id", "Nome" },
+                values: new object[,]
+                {
+                    { 1, "Eduardo Silva" },
+                    { 2, "Carlos Oliveira" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Produto",
+                columns: new[] { "Id", "Nome" },
+                values: new object[,]
+                {
+                    { 1, "Arroz" },
+                    { 2, "Feijao" },
+                    { 3, "Marcarrao" },
+                    { 4, "Carne" }
                 });
         }
 
