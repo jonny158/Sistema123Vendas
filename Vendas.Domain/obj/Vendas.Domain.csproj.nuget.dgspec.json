@@ -1,37 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {}
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
         "projectName": "Vendas.Domain",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

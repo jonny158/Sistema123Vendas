@@ -1,0 +1,17 @@
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.AssemblyInfo.cs
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Infrastructure.Data.deps.json
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Infrastructure.Data.runtimeconfig.json
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Infrastructure.Data.dll
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Infrastructure.Data.pdb
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Domain.dll
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\bin\Debug\net7.0\Vendas.Domain.pdb
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.csproj.CopyComplete
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.dll
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\refint\Vendas.Infrastructure.Data.dll
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.pdb
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\Vendas.Infrastructure.Data.genruntimeconfig.cache
+C:\Git\Sistema123Vendas\Sistema123Vendas\Vendas.Infrastructure.Data\obj\Debug\net7.0\ref\Vendas.Infrastructure.Data.dll

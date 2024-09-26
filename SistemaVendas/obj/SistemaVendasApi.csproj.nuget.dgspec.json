@@ -1,43 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj": {}
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj",
         "projectName": "SistemaVendasApi",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\SistemaVendasApi.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\SistemaVendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj"
               },
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj"
               }
             }
           }
@@ -49,8 +47,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -58,13 +56,13 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             },
             "Serilog": {
               "target": "Package",
@@ -94,41 +92,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
         "projectName": "Vendas.Application",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
               }
             }
           }
@@ -140,8 +136,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -168,38 +164,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
         "projectName": "Vendas.Domain",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -210,8 +204,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -228,44 +222,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
         "projectName": "Vendas.Infrastructure.CrossCutting",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\Vendas.Infrastructure.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj"
               },
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj"
               }
             }
           }
@@ -277,8 +269,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
@@ -301,41 +293,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
+    "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj",
         "projectName": "Vendas.Infrastructure.Data",
-        "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\Vendas.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
-                "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
+              "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+                "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
               }
             }
           }
@@ -347,28 +337,28 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[7.0.20, )"
             }
           },
           "imports": [
@@ -387,7 +377,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

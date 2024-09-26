@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5ckYrHBtDZfkDcP+TkoZ1Hmx0kRI2dGAs8A4s9GB+jjnjpXb2Yw1kbPxGGPauJZz4nlWLi4F+I0hWgNvSLhjQ==",
+  "dgSpecHash": "osJQ3eaxHMYZk1QnAO2NQWSN2xtocsAnFbTv0UrUE2tJYFU46L3HMkYvp37030jKt0U4lI2NTuFHmEU8UCVFJw==",
   "success": true,
-  "projectFilePath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
+  "projectFilePath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

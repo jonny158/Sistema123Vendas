@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net7.0": {
       "AutoMapper/13.0.1": {
         "type": "package",
         "dependencies": {
@@ -73,12 +73,12 @@
       "Serilog/4.0.1": {
         "type": "package",
         "compile": {
-          "lib/net8.0/Serilog.dll": {
+          "lib/net6.0/Serilog.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Serilog.dll": {
+          "lib/net6.0/Serilog.dll": {
             "related": ".xml"
           }
         }
@@ -101,7 +101,7 @@
       },
       "Vendas.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Vendas.Domain.dll": {}
         },
@@ -253,47 +253,45 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net7.0": [
       "AutoMapper >= 13.0.1",
       "Serilog >= 4.0.1",
       "Vendas.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PICHAU\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jonat\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
+      "projectUniqueName": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
       "projectName": "Vendas.Application",
-      "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
-      "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\obj\\",
+      "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
+      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
-              "projectPath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
+            "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj": {
+              "projectPath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Domain\\Vendas.Domain.csproj"
             }
           }
         }
@@ -305,8 +303,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -333,7 +331,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

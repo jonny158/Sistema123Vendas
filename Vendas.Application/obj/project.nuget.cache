@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LgQhE9hwijJgSl1qZcYleXksBIQRPUePOn/vnyDW0Imzh2mpfOKa0RqJ8fKjqmT/ou+V6UUwSRs3gZLYpLU3kQ==",
+  "dgSpecHash": "miwUzqAz9ekw0C3AtUetNxbVbyXp01LZNzRWSQ13fueJELDqkViKZ7SwNOq3Tjl9hzZu09H1n98k2l5NmQVq1g==",
   "success": true,
-  "projectFilePath": "D:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
+  "projectFilePath": "C:\\Git\\Sistema123Vendas\\Sistema123Vendas\\Vendas.Application\\Vendas.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PICHAU\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\PICHAU\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
-    "C:\\Users\\PICHAU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\jonat\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
